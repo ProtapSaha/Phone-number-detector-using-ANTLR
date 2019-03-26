@@ -1,0 +1,4 @@
+cd C:\Users\Lenovo\Desktop\compiler\33
+antlr4 phone.g4
+javac phone*.java
+grun phone start sample.txt -gui
